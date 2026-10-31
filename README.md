@@ -8,7 +8,7 @@ Copy the script to OpenWrt and run it as `root`:
 
 ```sh
 chmod 755 wan-mac-clone.sh
-./wan-mac-clone.sh A0:8C:FD:A4:3F:18
+./wan-mac-clone.sh AA:BB:CC:DD:EE:FF
 ```
 
 The optional second parameter selects a different logical WAN interface.
